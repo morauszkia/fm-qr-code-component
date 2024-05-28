@@ -1,17 +1,31 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## The challenge
+## Table of contents
 
-The challenge was to build out the QR code component and get it looking as close to the design as possible. This tests basic understanding of HTML and CSS.
+- [Screenshot and Live Site](#screenshot-and-live-site)
+- [Built with](#built-with)
+- [Author](#author)
 
-Only HTML and CSS was used to tackle this challenge.
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Provided designs are located in the `/design` folder. You will find both a mobile and a desktop version of the design. Figma versions were included but were not made available on Github.
+## Screenshot and Live Site
 
-All assets are in the `/images` folder. The assets were already optimized.
+![Final solution](./screenshot.png)
 
-There is also a `style-guide.md` file containing all the information needed, such as color palette and fonts.
+[Check out the live site on GitHub Pages](https://morauszkia.github.io/fm-qr-code-component/)
 
-Project will be deployed using GitHub pages.
+## Built with
+
+- Semantic HTML5 markup
+- CSS
+- Flexbox
+- Mobile-first
+- Responsive units
+
+## Author
+
+- Frontend Mentor - [@mantis](https://www.frontendmentor.io/profile/morauszkia)
+- Github - [@mantis](https://github.com/morauszkia)
+- LinkedIn - [András Morauszki](https://www.linkedin.com/in/andras-morauszki/)
