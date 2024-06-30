@@ -1,4 +1,18 @@
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400..700&display=swap");
+@font-face {
+  font-family: "Outfit";
+  font-weight: 400;
+  src: url("./fonts/Outfit-Regular.woff2") format("woff2"),
+    url("./fonts/Outfit-Regular.woff") format("woff"),
+    url("./fonts/Outfit-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-weight: 700;
+  src: url("./fonts/Outfit-Bold.woff2") format("woff2"),
+    url("./fonts/Outfit-Bold.woff") format("woff"),
+    url("./fonts/Outfit-Bold.ttf") format("truetype");
+}
 
 *,
 *::before,
